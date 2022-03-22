@@ -1,5 +1,6 @@
 # Machine-Learning-236756-all-HW
-Winter 2021-22 semester, done by Dorin Shteyman and Ido Amit
+Winter 2021-22 semester, done by Dorin Shteyman and Ido Amit.
+
 all HWs instructions are attached to this repository.
 
 general description of the assignments:
